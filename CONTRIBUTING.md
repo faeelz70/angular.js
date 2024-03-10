@@ -53,7 +53,7 @@ Since the Closure library i18n data is itself auto-generated from the data of th
 [Common Locale Data Repository (CLDR)] project, errors in the data should
 be reported there. See also the [Closure guide to i18n changes].
 
-### <a name="feature"></a> Missing a Feature?
+###<a name=feature"></a Missing a Feature?
 
 You can request a new feature by submitting an issue to our [GitHub Repository][github-issues].
 
@@ -162,8 +162,8 @@ restarted.
 
   * Make the required updates.
   * Re-run the AngularJS test suite to ensure tests are still passing.
-  * Commit your changes to your branch (e.g. `my-fix-branch`).
-  * Push the changes to your GitHub repository (this will update your Pull Request).
+  * Commit your changes to your branche.g. `my-fix-branch.
+  *Push the changes to your GitHub repository (this will update your Pull Request).
 
     You can also amend the initial commits and force push them to the branch.
 
